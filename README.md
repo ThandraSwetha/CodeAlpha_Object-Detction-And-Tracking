@@ -95,7 +95,9 @@ Feel free to open issues or pull requests. Useful contributions include:
 
 ## License
 
-Specify a license for the project if desired (e.g., MIT). No license is included by default.
+This project was created as an internship task for CodeAlpha.
+
+The project is licensed under the MIT License — see the `LICENSE` file for details.
 
 ## Contact
 
