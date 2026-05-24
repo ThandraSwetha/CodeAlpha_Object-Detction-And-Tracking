@@ -1,0 +1,21 @@
+venv/
+__pycache__/
+.pytest_cache/
+.vscode/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+*.db
+*.tar
+*.zip
+*.tar.gz
+*.egg-info/
+dist/
+build/
+.*.swp
+Thumbs.db
+.DS_Store
+# Ignore model weights to avoid large files in the repo; use Git LFS if you want to track them
+*.pt
