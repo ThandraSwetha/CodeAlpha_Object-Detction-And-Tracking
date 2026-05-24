@@ -93,12 +93,3 @@ Feel free to open issues or pull requests. Useful contributions include:
 - Adding saving options for annotated outputs
 - Integrating or documenting the specific tracker used
 
-## License
-
-This project was created as an internship task for CodeAlpha.
-
-The project is licensed under the MIT License — see the `LICENSE` file for details.
-
-## Contact
-
-For questions about this repo, open an issue or contact the maintainer.
